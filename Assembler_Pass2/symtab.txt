@@ -1,0 +1,6 @@
+1 	 A 	 17
+2 	 LOOP 	 2
+3 	 B 	 18
+4 	 NEXT 	 14
+5 	 BACK 	 2
+6 	 LAST 	 16
